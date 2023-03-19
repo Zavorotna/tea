@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Dited';
+    src: url('Dited.eot');
+    src: url('Dited.eot?#iefix') format('embedded-opentype'),
+        url('Dited.woff2') format('woff2'),
+        url('Dited.woff') format('woff'),
+        url('Dited.ttf') format('truetype'),
+        url('Dited.svg#Dited') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dited';
+    src: url('Dited_1.eot');
+    src: url('Dited_1.eot?#iefix') format('embedded-opentype'),
+        url('Dited_1.woff2') format('woff2'),
+        url('Dited_1.woff') format('woff'),
+        url('Dited_1.ttf') format('truetype'),
+        url('Dited_1.svg#Dited') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
